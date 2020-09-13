@@ -1,3 +1,0 @@
-On push:
-    send “New Commits Avaible !“ to #git-hub
-    stop
